@@ -22,5 +22,6 @@
 - follow instructions
 - Note: To create dataset press 'c'
 - finally press 'Esc' to exit from the window
-
+-It basically creates a dataset of 150 images(Default set by us)of the person after you wish to add a person's Dataset
+-It Displays your name if you are recognised else it displays Unknown.
 
